@@ -1,0 +1,2 @@
+- Beinhaltet Schritte aus: [https://developers.meta.com/horizon/documentation/unity/unity-tutorial-hello-vr/](https://developers.meta.com/horizon/documentation/unity/unity-tutorial-hello-vr/)
+- File -> Build Profiles -> Meta Quest auswählen
